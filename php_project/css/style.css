@@ -78,8 +78,8 @@ h3{
 }
 .float-text{
     position: absolute;
-    bottom: 50px;
-    left: 40%;
+    bottom: 25px;
+    left: 20%;
 }
 fieldset{
     border: 1px solid white;
@@ -94,7 +94,6 @@ fieldset{
 .logo{
     width: 20%;
     float: left;
-    margin: 0 0 0 0;
 }
 .menu{
     line-height: 60px;
@@ -162,7 +161,7 @@ fieldset{
 
 /* CSS for Food Menu */
 .food-menu{
-    background-color: #ececec;
+    background-color: #f4d2e3;
     padding: 4% 0;
 }
 .food-menu-box{
