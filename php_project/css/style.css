@@ -199,7 +199,10 @@ fieldset{
     margin-bottom: 1%; 
     font-weight: bold;
 }
-
+.order{
+    background-color: rgba(217, 217, 217, 0.6);
+    border-radius: 15px;
+}
 
 
 /* CSS for Mobile Size or Smaller Screen */
