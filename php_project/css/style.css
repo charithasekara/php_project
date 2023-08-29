@@ -11,7 +11,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .container{
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
     padding: 1%;
 }
@@ -92,8 +92,9 @@ fieldset{
 /* CSSS for navbar section */
 
 .logo{
-    width: 10%;
+    width: 20%;
     float: left;
+    margin: 0 0 0 0;
 }
 .menu{
     line-height: 60px;
